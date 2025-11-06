@@ -1,5 +1,8 @@
 ## Hi there, I am Jay! 👋
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juribu)](https://github.com/Juribu/github-readme-stats)
+
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juribu&show_icons=true)](https://github.com/Juribu/github-readme-stats)
 
 <!--
