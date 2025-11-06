@@ -1,10 +1,17 @@
 ## Hi there, I am Jay! 👋
 
+# 💫 About Me:
+📍 Grew up in Fujian, China -> (age 9) Brooklyn, NY<br>
+🎓 B.S. Statistics, minor Computer Science, Machine Learning<br>
+💻 [Resume Website](juribu.github.io)
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaywprofile) 
+
+<!--
 ## 📊 Github Stats
 <img alt="top language" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juribu&layout=compact"/>
-
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Juribu&show_icons=true&layout=compact"/>
 
 <!--
