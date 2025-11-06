@@ -3,9 +3,9 @@
 
 
 ## 📊 Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juribu)](https://github.com/Juribu/github-readme-stats)
+<img alt="top language" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juribu&layout=compact"/>
 
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juribu&show_icons=true)](https://github.com/Juribu/github-readme-stats)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Juribu&show_icons=true&layout=compact"/>
 
 <!--
 **Juribu/Juribu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
