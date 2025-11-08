@@ -3,7 +3,6 @@
 # 💫 About Me:
 📍 Grew up in Fujian, China -> (age 9) Brooklyn, NY<br>
 🎓 B.S. Statistics, minor Computer Science, Machine Learning<br>
-💻 [Resume Website]((https://juribu.github.io))
 
 
 ## 🌐 Socials:
