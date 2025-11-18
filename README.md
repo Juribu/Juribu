@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 📍 Grew up in Fujian, China -> (age 9) Brooklyn, NY<br>
-🎓 B.S. Statistics, minor Computer Science, Machine Learning<br>
+🎓 B.S. Statistics + Computer Science minor, Machine Learning<br>
 
 
 ## 🌐 Socials:
